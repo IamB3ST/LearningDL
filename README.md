@@ -24,7 +24,7 @@ You can follow the Github page: [js05212/BayesianDeepLearning-Survey](https://li
 ## About the Notebook
 
 ### Modules
-This notebook is structured into three main modules: Deep Learning, Probabilistic Graphical Models, and Bayesian Deep Learning, following the organization of the ["A Survey on Bayesian Deep Learning"](http://www.wanghao.in/paper/CSUR20_BDL.pdf).
+This notebook is structured into three main modules: `Deep Learning`, `Probabilistic Graphical Models`, and `Bayesian Deep Learning`, following the organization of the ["A Survey on Bayesian Deep Learning"](http://www.wanghao.in/paper/CSUR20_BDL.pdf).
 
 ### Content
 The notebook is provided in `ipynb` format, compatible with Jupyter Notebook or [Google Colab](https://colab.research.google.com/). Each file contains a comprehensive topic and a corresponding small project for practical understanding.
