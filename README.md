@@ -35,7 +35,6 @@ To replicate the environment, follow these simple steps:
 conda create -n bdl python=3.8
 conda activate bdl
 pip install -r requirements.txt
-pip install -e .
 ```
 
 ---
