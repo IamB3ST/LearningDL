@@ -1,6 +1,8 @@
 # basic environment
-torch~=2.3.0
-torchvision~=0.18.0
-numpy~=1.24.4
-matplotlib~=3.7.2
-tqdm~=4.66.4
+scikit-learn~=1.3.2
+torch~=2.1.0
+torchaudio~=2.1.0
+torchvision~=0.16.0
+numpy~=1.19.5
+matplotlib~=3.5.2
+tqdm~=4.65.2
