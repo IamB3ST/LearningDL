@@ -11,3 +11,4 @@ hmmlearn
 python-crfsuite
 gensim
 nltk
+pydensecrf
