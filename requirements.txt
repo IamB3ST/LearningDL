@@ -6,9 +6,3 @@ torchvision
 numpy
 matplotlib
 tqdm
-pgmpy
-hmmlearn
-python-crfsuite
-gensim
-nltk
-pydensecrf
