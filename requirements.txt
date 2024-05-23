@@ -9,3 +9,5 @@ tqdm
 pgmpy
 hmmlearn
 python-crfsuite
+gensim
+nltk
