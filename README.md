@@ -11,7 +11,7 @@ This repository aims to record my process of learning the 3D Vision and also I h
 ## About the Notebook
 
 ### Modules
-This notebook is structured into three main modules: `P1 Deep Learning`
+This notebook is structured into these main modules: `P1 Deep Learning`
 
 ### Content
 The notebook is provided in `ipynb` format, compatible with Jupyter Notebook or [Google Colab](https://colab.research.google.com/). Each file contains a comprehensive topic and a corresponding small project for practical understanding.
