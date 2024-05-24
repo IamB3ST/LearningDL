@@ -6,3 +6,4 @@ torchvision
 numpy
 matplotlib
 tqdm
+timm
