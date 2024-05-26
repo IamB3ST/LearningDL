@@ -1,4 +1,4 @@
-# 3D Vision Notebook (updating)
+# Deep Learning Notebook (updating)
 
 This repository aims to record my process of learning the 3D Vision and also I hope this notebook can help others who are interested in 3D Vision to know about the it.
 
