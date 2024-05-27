@@ -11,8 +11,9 @@ This repository aims to record my process of learning the Deep Learning and also
 ## About the Notebook
 
 ### Modules
-This notebook is structured into these main modules: `P1 Introduction to Deep Learning`, `P2 Advanced method for Deep Learning`
+This notebook is structured into these main modules: `P1 Introduction to Deep Learning`, `P2 Advanced Methods for Deep Learning`
 - In `P1 Introduction to Deep Learning`, the classic models/networks like MLP, CNN, ResNet, ViT will be introduced. And train them on the MNIST, FashionMNIST, CIFAR10 and CIFAR100. We will get 94.5% accuracy on CIFAR10 with ResNet by end-to-end training. For CIFAR100, we will get 79.1% accuracy with Wide_ResNet50 which is pre-trained.
+- In `P2 Advanced Methods for Deep Learning`, we will rethink the relationship between Conv and Attention. And we will introduce the advanced methods about ConvNets family, ViT family or their hybridization, like CoAtNet, ConvNeXt.
 
 ### Content
 The notebook is provided in `ipynb` format, compatible with Jupyter Notebook or [Google Colab](https://colab.research.google.com/). Each file contains a comprehensive topic and a corresponding small project for practical understanding.
