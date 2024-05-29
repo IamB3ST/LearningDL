@@ -25,6 +25,7 @@ This notebook is structured into these main modules: `P1 Introduction to Deep Le
 
 - In `P2 Advanced Methods for Deep Learning`, we will rethink the relationship between Conv and Attention and how make them better. Then we will introduce the advanced methods about ConvNets family, ViT family or their hybridization, like CoAtNet, ConvNeXt, Swim transformer, TransNeXt and gated method likes MogaNet.
 
+
 Also there are some track modules you can select after reading main modules: `T1 Introduction to 3D Human`
 
 ### Content
