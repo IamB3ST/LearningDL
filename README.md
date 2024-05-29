@@ -7,6 +7,11 @@ This repository aims to record my process of learning the Deep Learning and also
 > email: rw761@scarletmail.rutgers.edu
 
 
+## Computational Resources
+| NVIDIA-SMI | Driver | CUDA | GPU | Memory | Pwr |
+|:-------|:-------|:-------|:-------|:-------|:-------|
+| 552.22 | 552.22 | 12.4 | GeForce RTX 3050Ti | 4096MiB | 95W | 
+
 
 ## About the Notebook
 
