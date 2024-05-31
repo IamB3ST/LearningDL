@@ -39,8 +39,8 @@ The notebook is provided in `ipynb` format, compatible with Jupyter Notebook or 
 ### Environment
 To replicate the environment, follow these simple steps:
 ```bash
-conda create -n 3dv python=3.8
-conda activate 3dv
+conda create -n human python=3.8
+conda activate human
 pip install -r requirements.txt
 ```
 
