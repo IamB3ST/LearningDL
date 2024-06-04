@@ -24,8 +24,8 @@ This notebook is structured into these main modules: `P1 Introduction to Deep Le
   | MLP | MNIST | 98.1% | 20 | baseline | no |
   | MLP | FashionMNIST | 81.6% | 20 | baseline | no |
   | AlexNet | FashionMNIST | 91.0% | 30 | baseline | no |
-  | ResNet | CIFAR10 | 94.5% | 200 | yes | no |
-  | ResNet50 | CIFAR100 | 79.1% | 200 | yes | yes |
+  | ResNet | CIFAR10 | 94.5% | 200 | AutoAugment, RandomErasing | no |
+  | ResNet50 | CIFAR100 | 79.1% | 200 | AutoAugment, RandomErasing | yes |
 
 - In `P2 Advanced Methods for Deep Learning`, we will rethink the relationship between Conv and Attention and how make them better. Then we will introduce the advanced methods about ConvNets family, ViT family or their hybridization, like CoAtNet, ConvNeXt, Swim transformer, TransNeXt and gated method likes MogaNet.
 
