@@ -16,8 +16,8 @@ This repository aims to record my process of learning the CV&CG and also I hope 
 ## About the Notebook
 
 ### Modules
-This notebook is structured into these main modules: `Deep Learning`, `Computer Vision`, `Computer Graphics`
-The `Deep Learning` module has the parts: `P1 Introduction to Deep Learning`, `P2 Advanced Methods for Deep Learning`, `P3 Important Tools of Model Training`
+This notebook is structured into these main modules: `Deep Learning`, `Computer Vision`, `Computer Graphics`.<br>
+The `Deep Learning` module has the parts: `P1 Introduction to Deep Learning`, `P2 Advanced Methods for Deep Learning`, `P3 Important Tools of Model Training`.
 - In `P1 Introduction to Deep Learning`, the classic models/networks like MLP, CNN, ResNet, ViT will be introduced. And train them on the MNIST, FashionMNIST, CIFAR10 and CIFAR100. There are the results we will get in P1:
   
   | model | dataset | accuracy | epoch | augmentation | pre-train |
