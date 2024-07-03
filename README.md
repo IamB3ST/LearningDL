@@ -19,7 +19,7 @@ This repository aims to record my process of learning the CV&CG and also I hope 
 This notebook is structured into these main modules: `Deep Learning`, `Computer Vision`, `Computer Graphics`.
 
 #### Deep Learning
-The `Deep Learning` is structured into these parts: `P1 Introduction to Deep Learning`, `P2 Advanced Methods for Deep Learning`, `P3 Important Tools of Model Training`.
+The `Deep Learning` is structured into these parts: `P1 Introduction to Deep Learning`.
 - In `P1 Introduction to Deep Learning`, the classic models/networks like MLP, CNN, ResNet, ViT will be introduced. And train them on the MNIST, FashionMNIST, CIFAR10 and CIFAR100. There are the results we will get in P1:
   
   | model | dataset | accuracy | epoch | augmentation | pre-train |
@@ -29,10 +29,6 @@ The `Deep Learning` is structured into these parts: `P1 Introduction to Deep Lea
   | AlexNet | FashionMNIST | 91.0% | 30 | baseline | no |
   | ResNet | CIFAR10 | 94.5% | 200 | AutoAugment, RandomErasing | no |
   | ResNet50 | CIFAR100 | 79.1% | 200 | AutoAugment, RandomErasing | yes |
-
-- In `P2 Advanced Methods for Deep Learning`, we will rethink the relationship between Conv and Attention and how make them better. Then we will introduce the advanced methods about ConvNets family, ViT family or their hybridization, like CoAtNet, ConvNeXt, Swim transformer, TransNeXt and gated method likes MogaNet.
-
-- In `P3 Important Tools of Model Training`, we will introduce some useful tools and concepts for model training. Including the Visulization tools, Optimizers, Training strategies and Augmentation.
 
 ### Content
 The notebook is provided in `ipynb` format, compatible with Jupyter Notebook or [Google Colab](https://colab.research.google.com/). Each file contains a comprehensive topic and a corresponding small project for practical understanding.
