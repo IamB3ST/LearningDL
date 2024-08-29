@@ -1,4 +1,4 @@
-# Learning Vision&Graphics (updating)
+# Learning DL (updating)
 
 This repository aims to record my process of learning the CV&CG and also I hope this notebook can help others who are interested in CV&CG to know about the it.
 
