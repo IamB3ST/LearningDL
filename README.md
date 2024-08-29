@@ -1,6 +1,6 @@
 # Learning DL (updating)
 
-This repository aims to record my process of learning the CV&CG and also I hope this notebook can help others who are interested in CV&CG to know about the it.
+This repository aims to record my process of learning the DL and also I hope this notebook can help others who are interested in DL to know about the it.
 
 > author: Rui Wu
 
@@ -16,7 +16,7 @@ This repository aims to record my process of learning the CV&CG and also I hope 
 ## About the Notebook
 
 ### Modules
-This notebook is structured into these main modules: `Deep Learning`, `Computer Vision`, `Computer Graphics`.
+This notebook is structured into these main modules: `Deep Learning`
 
 #### Deep Learning
 The `Deep Learning` is structured into these parts: `P1 Introduction to Deep Learning`.
@@ -36,8 +36,8 @@ The notebook is provided in `ipynb` format, compatible with Jupyter Notebook or 
 ### Environment
 To replicate the environment, follow these simple steps:
 ```bash
-conda create -n human python==3.8
-conda activate human
+conda create -n ldl python==3.8
+conda activate ldl
 pip install -r requirements.txt
 ```
 
