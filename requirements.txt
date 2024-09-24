@@ -9,3 +9,4 @@ tqdm
 timm
 deeplake
 grad-cam
+tiktoken
