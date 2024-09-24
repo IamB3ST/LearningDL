@@ -30,6 +30,8 @@ The `Deep Learning` is structured into these parts: `P1 Introduction to Deep Lea
   | ResNet | CIFAR10 | 94.5% | 200 | AutoAugment, RandomErasing | no |
   | ResNet50 | CIFAR100 | 79.1% | 200 | AutoAugment, RandomErasing | yes |
 
+- In `P2 Large Language Model and Prompting`, I will give the code to understand how to handle text data, how to build your own LLM, how to make pre-training and fine-tune for your LLM. Also, I will introduce how to use Prompt to make LLM's inference better. 
+
 ### Content
 The notebook is provided in `ipynb` format, compatible with Jupyter Notebook or [Google Colab](https://colab.research.google.com/). Each file contains a comprehensive topic and a corresponding small project for practical understanding.
 
