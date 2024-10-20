@@ -1,8 +1,6 @@
 # basic environment
 scikit-learn
-torch
-torchaudio
-torchvision
+torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 numpy
 matplotlib
 tqdm
