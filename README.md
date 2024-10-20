@@ -17,7 +17,7 @@ This repository aims to record my process of learning the DL and also I hope thi
 
 ### Modules
 
-This notebook is structured into these parts: `P1 Introduction to Deep Learning`, `P2 Large Language Model`
+This notebook is structured into these parts: `P1 Introduction to Deep Learning`, `P2 Introduction to Large Language Model`
 - In `P1 Introduction to Deep Learning`, the classic models/networks like MLP, CNN, ResNet, ViT will be introduced. And train them on the MNIST, FashionMNIST, CIFAR10 and CIFAR100. There are the results we will get in P1:
   
   | model | dataset | accuracy | epoch | augmentation | pre-train |
@@ -28,7 +28,7 @@ This notebook is structured into these parts: `P1 Introduction to Deep Learning`
   | ResNet | CIFAR10 | 94.5% | 200 | AutoAugment, RandomErasing | no |
   | ResNet50 | CIFAR100 | 79.1% | 200 | AutoAugment, RandomErasing | yes |
 
-- In `P2 Large Language Model`, I will give the code to understand how to handle text data, how to use Prompt to make LLM's inference better and other skills for reasoning.
+- In `P2 Introduction to Large Language Model`, I will give the code to understand how to handle text data (NLP knowledge), how to use Prompt to make LLM's inference better and other skills for reasoning.
 
 ### Content
 The notebook is provided in `ipynb` format, compatible with Jupyter Notebook or [Google Colab](https://colab.research.google.com/). Each file contains a comprehensive topic and a corresponding small project for practical understanding.
