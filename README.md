@@ -31,7 +31,7 @@ This notebook is structured into these parts: `P1 Introduction to Deep Learning`
 - In `P2 Introduction to Large Language Model`, I will give the code to understand how to handle text data (NLP knowledge), how to use Prompt to make LLM's inference better and other skills for reasoning.
 
 - In `P3 Introduction to AI interpreter`, I will introduce some tools to interprete kinds of phenomenon in Deep Learning.
-- 
+  
 ### Content
 The notebook is provided in `ipynb` format, compatible with Jupyter Notebook or [Google Colab](https://colab.research.google.com/). Each file contains a comprehensive topic and a corresponding small project for practical understanding.
 
