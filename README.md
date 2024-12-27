@@ -1,4 +1,4 @@
-# Learning DL (updating)
+# Learning DL (STOP updating)
 
 This repository aims to record my process of learning the DL and also I hope this notebook can help others who are interested in DL to know about the it.
 
